@@ -1,0 +1,25 @@
+Problem 1 output:
+
+Tesla
+Mercedes
+
+problem 2 output:
+
+null
+Elon
+
+problem 3 output:
+
+12345
+undefined
+
+problem 4 output:
+
+error can't change a const
+
+problem 5 output:
+
+value
+[1,5,1,8,3,3]
+1
+5
